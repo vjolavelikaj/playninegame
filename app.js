@@ -161,8 +161,8 @@ class Game extends React.Component {
       <h3>Play Nine</h3>
       <br />
        <kbd> How to play : </kbd> <br />
-      <kbd> Perpiqu te barazosh numrat nga menuja me numrin e yjeve.</kbd><br />
-      <kbd> Ke deri ne 5 mundesi.</kbd>
+       <kbd> Try to equal the numbers from the menu with the number of the stars.</kbd><br />
+       <kbd> Only got 5 chances.</kbd>
        <br />
         <br />
       <div className="row">
